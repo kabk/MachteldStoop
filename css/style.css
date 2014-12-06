@@ -91,3 +91,16 @@ ul.navbar {
 	border: 0px solid #000;
 	display: inline-block;
 }
+
+.griditem4 {
+	height: 700px;
+	width: 500px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #606060;
+	padding: 300px;
+	padding-top: 150px;
+	margin: 0px;
+	border: 0px solid #000;
+	display: inline-block;
+}
+

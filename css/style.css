@@ -44,9 +44,9 @@ border: 4px solid #000;
 }
 a:hover {
 	color: white;
-	background-color: #000;
+	background-color: #FFF;
 	text-decoration: none;
-	border: 4px solid #000;
+	border: 4px solid #FFF;
 	font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
 
 } 
